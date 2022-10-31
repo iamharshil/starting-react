@@ -1,3 +1,7 @@
+body {
+  color: #fff;
+  background-color: #222;
+}
 .title {
   font-family: "Hack Nerd Font";
   text-align: center;
@@ -6,4 +10,10 @@
 th {
   text-align: left;
   font-size: x-large;
+}
+
+input {
+  width: 100%;
+  font-size: x-large;
+  padding: 0.2rem;
 }
